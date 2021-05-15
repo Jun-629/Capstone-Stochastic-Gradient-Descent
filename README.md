@@ -13,6 +13,6 @@ https://github.com/G750cloud
 https://github.com/Bertha-ding/independent-study
 
 ## Code for the Thesis
-- [Gradient Descent and Nesterov's Accelerated Gradient Descent for 1-dimensional Function](code/1-d function.py)
+- [Gradient Descent and Nesterov's Accelerated Gradient Descent for 1-dimensional Function] (code/1-d function.py)
 - [Gradient Descent and Nesterov's Accelerated Gradient Descent for 2-dimensional Function](code/2-d function.py)
 - [Stochastic Gradient Descent and Nesterov's Stochastic Gradient Descent for 1-dimensional Function](code/1-d function.py) & ()
