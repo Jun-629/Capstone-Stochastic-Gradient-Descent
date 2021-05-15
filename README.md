@@ -13,6 +13,6 @@ Also, my teammates Jing Guo and Yuning Ding did a great job in this work, here a
 [Yuning Ding](https://github.com/Bertha-ding/independent-study)
 
 ## Code for the Thesis
-- [GD and NGD for 1-dimensional Function](code/1-d function.py)
+- [1d function](code/1-d function.py)
 - [Gradient Descent and Nesterov's Accelerated Gradient Descent for 2-dimensional Function](code/2-d function.py)
 - [Stochastic Gradient Descent and Nesterov's Stochastic Gradient Descent for 1-dimensional Function](code/1-d func with SGD.py) & (code/1-d func with SGD-2.py)
