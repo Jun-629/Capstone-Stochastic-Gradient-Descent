@@ -8,7 +8,7 @@ https://github.com/songqsh
 
 Also, my teammates Jing Guo and Yuning Ding did a great job in this work, here are their GitHub link, respectively:
 
-https://github.com/G750cloud
+[Jing Guo](https://github.com/G750cloud)
 
 https://github.com/Bertha-ding/independent-study
 
