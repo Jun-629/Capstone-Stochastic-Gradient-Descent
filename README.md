@@ -10,9 +10,9 @@ Also, my teammates Jing Guo and Yuning Ding did a great job in this work, here a
 
 [Jing Guo](https://github.com/G750cloud)
 
-https://github.com/Bertha-ding/independent-study
+[Yuning Ding](https://github.com/Bertha-ding/independent-study)
 
 ## Code for the Thesis
-- [Gradient Descent and Nesterov's Accelerated Gradient Descent for 1-dimensional Function] (code/1-d function.py)
+- [GD and NGD for 1-dimensional Function](code/1-d function.py)
 - [Gradient Descent and Nesterov's Accelerated Gradient Descent for 2-dimensional Function](code/2-d function.py)
 - [Stochastic Gradient Descent and Nesterov's Stochastic Gradient Descent for 1-dimensional Function](code/1-d function.py) & ()
