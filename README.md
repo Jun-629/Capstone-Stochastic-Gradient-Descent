@@ -3,10 +3,13 @@
 This is the capstone with the thesis: Stochastic Gradient Descent and its application. 
 
 The advisor Professor Song has helped me a lot and this is his GitHub link:
+
 https://github.com/songqsh
 
 Also, my teammates Jing Guo and Yuning Ding did a great job in this work, here are their GitHub link, respectively:
+
 https://github.com/G750cloud
+
 https://github.com/Bertha-ding/independent-study
 
 ## Code for the Thesis
